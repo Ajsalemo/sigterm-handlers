@@ -3,7 +3,7 @@ module sigterm-handlers
 go 1.24
 
 require (
-	github.com/gofiber/fiber/v2 v2.52.15
+	github.com/gofiber/fiber/v2 v2.52.16
 	go.uber.org/zap v1.28.0
 )
 
